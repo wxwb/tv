@@ -2,15 +2,19 @@
   "storeHouse": [
     {
       "sourceName": "🌹涛涛影视仓库🌹",
-      "sourceUrl": "https://jihulab.com/xuan2/tv/-/raw/main/d.json"
+      "sourceUrl": "https://jihulab.com/xuan2/tv/-/raw/main/tt.json"
     },
     {
       "sourceName": "🌷涛涛TV仓库🌷",
-      "sourceUrl": "https://jihulab.com/xuanbei1/tvbox/-/raw/main/tt.json"
+      "sourceUrl": "https://jihulab.com/xuanbei1/tvbox/-/raw/main/d.json"
     },
     {
-      "sourceName": "💐测试仓库💐",
-      "sourceUrl": "http://w.nxog.top/nxog/ou2.php?url=http://w.nxog.top&xl=2&b=欧歌"
+      "sourceName": "💐精品影视仓库💐",
+      "sourceUrl": "https://codeberg.org/kuanglang/box/raw/branch/main/dt.json"
+    },
+    {
+      "sourceName": "🏡多多影音仓库🏡",
+      "sourceUrl": "https://pastebin.com/raw/UMFn3xp4"
     },
     {
       "sourceName": "☘️欧歌主仓库☘️",
