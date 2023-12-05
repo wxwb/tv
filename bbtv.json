@@ -245,17 +245,6 @@
       "jar": "./lib/fix0804.jar;md5;f71431362b88ce020d9854eb9166841b"
     },
     {
-      "key": "csp_XYQHiker_‍dyx",
-      "name": "磁磁┃4K",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./lib/spider.txt",
-      "ext": "./lib/dyg.json"
-    },
-    {
       "key": "GZ",
       "name": "罐罐┃蓝光",
       "type": 3,
@@ -518,17 +507,6 @@
       "type": 3,
       "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
       "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/js/优酷.js"
-    },
-    {
-      "key": "csp_XYQHiker_‍dyx",
-      "name": "🧲┃电影┃4k",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_Mp4Mov",
