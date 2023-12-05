@@ -1531,7 +1531,7 @@
     }
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "./custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+  "spider": "./jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
   "lives": [
     {
       "name": "live",
