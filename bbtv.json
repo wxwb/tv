@@ -1,5 +1,17 @@
 {
-  "warningText": "💝欢迎您进入蓓蓓影视直播中心💝",
+  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+  "spider": "./jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
+   "warningText": "💝欢迎您进入蓓蓓影视直播中心💝",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "./lib/tvlive.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "sites": [
     {
       "key": "豆豆",
@@ -1528,18 +1540,6 @@
         "哔哩哔哩",
         "哔哩"
       ]
-    }
-  ],
-  "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "./jar/custom_spider.jar;md5;1948098B2A3D81773E059F00A1D97224",
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "./lib/tvlive.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "flags": [
