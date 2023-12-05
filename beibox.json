@@ -143,6 +143,17 @@
 "电影解说"
 ]
 },
+{ 
+      "key": "csp_XYQHiker_‍dyx", 
+      "name": "盒盒┃4K", 
+      "type": 3, 
+      "api": "csp_XYQHiker", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1, 
+      "jar": "./jar/spider.txt",
+      "ext": "./JS/dyg.json"    
+    }, 	
    {
       "key": "csp_Bttoo",
       "name": "🌲涛涛比特┃2k",
