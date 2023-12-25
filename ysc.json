@@ -1,24 +1,13 @@
 {
-  "storeHouse": [
-    {
-      "sourceName": "🌹涛涛影视仓库🌹",
-      "sourceUrl": "https://jihulab.com/xuan2/tv/-/raw/main/tt.json"
-    },
-    {
-      "sourceName": "🌷涛涛TV仓库🌷",
-      "sourceUrl": "https://jihulab.com/xuanbei1/tvbox/-/raw/main/d.json"
-    },
-    {
-      "sourceName": "💐精品影视仓库💐",
-      "sourceUrl": "https://codeberg.org/kuanglang/box/raw/branch/main/dt.json"
-    },
-    {
-      "sourceName": "🏡多多影音仓库🏡",
-      "sourceUrl": "https://pastebin.com/raw/UMFn3xp4"
-    },
-    {
-      "sourceName": "☘️欧歌主仓库☘️",
-      "sourceUrl": "http://w.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&b=欧歌"
-    }
-  ]
-}
+"storeHouse": [
+{"sourceName":"🌹涛涛影视仓库🌹","sourceUrl":"https://jihulab.com/xuan2/tv/-/raw/main/tt.json"},
+{"sourceName":"🌷涛涛TV仓库🌷","sourceUrl":"https://jihulab.com/xuanbei1/tvbox/-/raw/main/d.json"},
+{"sourceName":"💐精品仓库💐","sourceUrl":"https://codeberg.org/kuanglang/box/raw/branch/main/dt.json"},
+{"sourceName":"💐壹梦多仓💐","sourceUrl":"http://qrh.yimkj.cn/%E5%A3%B9%E6%A2%A6%E5%A4%9A%E4%BB%93.json"},
+{"sourceName":"☘️欧歌主仓库☘️","sourceUrl":"http://w.nxog.top/nxog/ou2.php?url=http://tv.nxog.top&b=欧歌"},
+{"sourceName":"🍭乐享汇fans在线仓库🍭","sourceUrl":"https://too.st/6s0"},
+{"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://duo.codered.cloud/ck/a.txt"},
+{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://duo.codered.cloud/ck/b.txt"},
+{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://duo.codered.cloud/ck/c.txt"},
+{"sourceName":"💜多多预备仓🍭不做韭菜🍭","sourceUrl":"https://duo.codered.cloud/ck/d.txt"}
+]}
