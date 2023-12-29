@@ -3,7 +3,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "💞蓓蓓影院中心",
+      "name": "💞蓓蓓在线影院中心",
       "type": 3,
       "jar": "./lib/fan.txt;md5;60a9856a6deb7dcff27f3056626bbb5a",
       "api": "csp_DouDou",
